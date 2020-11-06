@@ -1,0 +1,30 @@
+[
+  {
+    "id": "default-slice",
+    "name": "Default slice",
+    "docURL": "...",
+    "version": "sktwi1xtmkfgx8626",
+    "description": "ImageWithContent",
+    "primary": {
+      "title": [
+        { "type": "heading1", "text": "productize magnetic users", "spans": [] }
+      ],
+      "description": [
+        {
+          "type": "paragraph",
+          "text": "integrate wireless action-items",
+          "spans": []
+        }
+      ],
+      "image": {
+        "dimensions": { "width": 900, "height": 500 },
+        "alt": "Placeholder image",
+        "copyright": null,
+        "url": "https://images.prismic.io/important-sm-images/0bd90f52-eede-4191-a9d2-6828ccf38e81_T19__iPV4hQ.jpg?w=900&h=500"
+      },
+      "link": { "link_type": "Web", "url": "https://slicemachine.dev" }
+    },
+    "items": [],
+    "slice_type": "image_with_content"
+  }
+]
